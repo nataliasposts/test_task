@@ -43,7 +43,7 @@ function createCounter1(init) {
   return obj;
 }
 
-let counter4 = createCounter2(10);
+const counter4 = createCounter2(10);
 console.log(counter4.counter);
 counter4.increment();
 console.log(counter4.counter);
