@@ -1,0 +1,10 @@
+.btn{
+    border: 1px outset blue;
+    background-color: lightBlue;
+    padding: 4px 10px;
+    width: 30px;
+    cursor: pointer;
+}
+.pbtn{
+    margin-right: 10px;
+}
